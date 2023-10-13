@@ -56,10 +56,10 @@
 // chapter 4
 // question 1
 
-var name = "My Nmae is Zohaib"
-var age = "i am 30 Years Old"
-var course = "Certefied Mobile Application Development"
-var massege = "“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”"
-// alert(name+" "+age+" "+course+" "+massege)
+// var name = "My Nmae is Zohaib"
+// var age = "i am 30 Years Old"
+// var course = "Certefied Mobile Application Development"
+// var massege = "“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”"
+// // alert(name+" "+age+" "+course+" "+massege)
 
-alert(name+age +course +massege)
+// alert(name+age +course +massege)
