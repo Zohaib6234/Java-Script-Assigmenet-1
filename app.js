@@ -63,3 +63,6 @@
 // // alert(name+" "+age+" "+course+" "+massege)
 
 // alert(name+age +course +massege)
+var name = "My Name Is Zohaib Ali Qadri!"
+var age = "I am 30 Years Old"
+document.write(name+"       "+age)
